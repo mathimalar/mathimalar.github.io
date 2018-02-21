@@ -402,33 +402,6 @@ solutions will be discussed.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Deep Learning Programming &amp; Deployment</title>
-      <link>http://mathimalar.github.io/talk/dl-prog-dep-lead-summ/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>http://mathimalar.github.io/talk/dl-prog-dep-lead-summ/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to Machine Learning</title>
-      <link>http://mathimalar.github.io/talk/intro-mlschool17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>http://mathimalar.github.io/talk/intro-mlschool17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Compression</title>
-      <link>http://mathimalar.github.io/talk/model-compression-mlschool17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>http://mathimalar.github.io/talk/model-compression-mlschool17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NTD Ge sensor development for superconducting bolometers</title>
       <link>http://mathimalar.github.io/publication/thesis/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
@@ -1819,6 +1792,24 @@ See &lt;a href=&#34;http://www.cs.utexas.edu/~klivans/f06lec2.pdf&#34; target=&#
     
 
 </description>
+    </item>
+    
+    <item>
+      <title>NTD Ge sensors for low-temperature thermometry (for Neutrinoless Double Beta Decay)</title>
+      <link>http://mathimalar.github.io/talk/ntdge-sensors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mathimalar.github.io/talk/ntdge-sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD Defence</title>
+      <link>http://mathimalar.github.io/talk/defence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mathimalar.github.io/talk/defence/</guid>
+      <description></description>
     </item>
     
   </channel>
