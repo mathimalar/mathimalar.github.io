@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>http://mathimalar.github.io/project/xnet/</loc>
+      <loc>http://mathimalar.github.io/project/ntdge/</loc>
       <lastmod>2017-11-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -43,15 +43,6 @@
     
       <loc>http://mathimalar.github.io/teaching/complexity-theory/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/publication/hyper-coloring-journal/</loc>
-      <lastmod>2017-02-22T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -131,8 +122,8 @@
     
     <url>
     
-      <loc>http://mathimalar.github.io/publication/improved-khot-saket/</loc>
-      <lastmod>2015-05-10T00:00:00+00:00</lastmod>
+      <loc>http://mathimalar.github.io/publication/rad-imp-neu-trans/</loc>
+      <lastmod>2015-02-21T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -140,8 +131,17 @@
     
     <url>
     
-      <loc>http://mathimalar.github.io/publication/streaming/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <loc>http://mathimalar.github.io/publication/char-neut-trans/</loc>
+      <lastmod>2015-02-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mathimalar.github.io/publication/dev-ntdge-low-temp/</loc>
+      <lastmod>2014-07-07T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -158,7 +158,7 @@
     <url>
     
       <loc>http://mathimalar.github.io/publication_types/1/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2014-07-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -168,7 +168,7 @@
     <url>
     
       <loc>http://mathimalar.github.io/publication_types/2/</loc>
-      <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+      <lastmod>2015-02-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -216,6 +216,26 @@
     
     <url>
     
+      <loc>http://mathimalar.github.io/tags/mgb2/</loc>
+      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mathimalar.github.io/tags/ntdge/</loc>
+      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://mathimalar.github.io/project/</loc>
       <lastmod>2017-11-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -227,7 +247,7 @@
     <url>
     
       <loc>http://mathimalar.github.io/publication_types/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2014-07-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

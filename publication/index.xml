@@ -11,11 +11,36 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Characterization of neutron transmutation doped (NTD) Ge for low temperature sensor development</title>
-      <link>http://mathimalar.github.io/publication/hyper-coloring-journal/</link>
-      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <title>NTD Ge sensor development for superconducting bolometers</title>
+      <link>http://mathimalar.github.io/publication/thesis/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mathimalar.github.io/publication/hyper-coloring-journal/</guid>
+      <guid>http://mathimalar.github.io/publication/thesis/</guid>
+      <description>&lt;p&gt;The graph coloring problem is a notoriously hard problem, for which we do not have efficient algorithms. A coloring of a graph is an assignment of colors to its vertices such that the end points of every edge have different colors. A k-coloring is a coloring that uses at most k distinct colors. The graph coloring problem is to find a coloring that uses the minimum number of colors. Given a 3-colorable graph, the best known efficient algorithms output an n0. 199···-coloring. It is known that efficient algorithms cannot find a 4-coloring, assuming &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study of radioactive impurities in neutron transmutation doped germanium</title>
+      <link>http://mathimalar.github.io/publication/rad-imp-neu-trans/</link>
+      <pubDate>Sat, 21 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mathimalar.github.io/publication/rad-imp-neu-trans/</guid>
+      <description>&lt;p&gt;In a recent result, Khot and Saket [FOCS 2014] proved the quasi-NP-hardness of coloring a 2-colorable 12-uniform hypergraph with 2(logn)Ω(1) colors. This result was proved using a novel outer PCP verifier which had a strong soundness guarantee. In this note, we show that we can reduce the arity of their result by modifying their 12-query inner verifier to an 8-query inner verifier based on the hypergraph coloring hardness reductions of Guruswami et. al. [STOC 2014]. More precisely, we prove quasi-NP-hardness of the following problems on n-vertex hypergraphs.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Coloring a 2-colorable 8-uniform hypergraph with 2(logn)Ω(1) colors.&lt;/li&gt;
+&lt;li&gt;Coloring a 4-colorable 4-uniform hypergraph with 2(logn)Ω(1) colors.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization of neutron transmutation doped (NTD) Ge for low temperature sensor development</title>
+      <link>http://mathimalar.github.io/publication/char-neut-trans/</link>
+      <pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mathimalar.github.io/publication/char-neut-trans/</guid>
       <description>&lt;p&gt;We prove improved inapproximability results for hypergraph coloring using the low-degree polynomial code (aka, the &amp;lsquo;short code&amp;rsquo; of Barak et. al. [FOCS 2012]) and the techniques proposed by Dinur and Guruswami [FOCS 2013] to incorporate this code for inapproximability results. In particular, we prove quasi-NP-hardness of the following problems on $n$-vertex hyper-graphs:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -29,36 +54,11 @@
     </item>
     
     <item>
-      <title>NTD Ge sensor development for superconducting bolometers</title>
-      <link>http://mathimalar.github.io/publication/thesis/</link>
-      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://mathimalar.github.io/publication/thesis/</guid>
-      <description>&lt;p&gt;The graph coloring problem is a notoriously hard problem, for which we do not have efficient algorithms. A coloring of a graph is an assignment of colors to its vertices such that the end points of every edge have different colors. A k-coloring is a coloring that uses at most k distinct colors. The graph coloring problem is to find a coloring that uses the minimum number of colors. Given a 3-colorable graph, the best known efficient algorithms output an n0. 199···-coloring. It is known that efficient algorithms cannot find a 4-coloring, assuming &amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Study of radioactive impurities in neutron transmutation doped germanium</title>
-      <link>http://mathimalar.github.io/publication/improved-khot-saket/</link>
-      <pubDate>Sun, 10 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://mathimalar.github.io/publication/improved-khot-saket/</guid>
-      <description>&lt;p&gt;In a recent result, Khot and Saket [FOCS 2014] proved the quasi-NP-hardness of coloring a 2-colorable 12-uniform hypergraph with 2(logn)Ω(1) colors. This result was proved using a novel outer PCP verifier which had a strong soundness guarantee. In this note, we show that we can reduce the arity of their result by modifying their 12-query inner verifier to an 8-query inner verifier based on the hypergraph coloring hardness reductions of Guruswami et. al. [STOC 2014]. More precisely, we prove quasi-NP-hardness of the following problems on n-vertex hypergraphs.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Coloring a 2-colorable 8-uniform hypergraph with 2(logn)Ω(1) colors.&lt;/li&gt;
-&lt;li&gt;Coloring a 4-colorable 4-uniform hypergraph with 2(logn)Ω(1) colors.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Development of NTD Ge sensors for low temperature thermometry</title>
-      <link>http://mathimalar.github.io/publication/streaming/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <link>http://mathimalar.github.io/publication/dev-ntdge-low-temp/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://mathimalar.github.io/publication/streaming/</guid>
+      <guid>http://mathimalar.github.io/publication/dev-ntdge-low-temp/</guid>
       <description>&lt;p&gt;In this paper, we give streaming algorithms for some problems which are known to be in deterministic log-space, when the number of passes made on the input is unbounded. If the input data is massive, the conventional deterministic log-space algorithms may not run efficiently. We study the complexity of the problems when the number of passes is bounded.&lt;/p&gt;
 
 &lt;p&gt;The first problem we consider is the membership testing problem for deterministic linear languages, DLIN. Extending the recent work of Magniez et al.&lt;a href=&#34;to appear in STOC 2010&#34; target=&#34;_blank&#34;&gt;11&lt;/a&gt;, we study the use of fingerprinting technique for this problem. We give the following streaming algorithms for the membership testing of DLIN s: a randomized one pass algorithm that uses O(logn) space (one-sided error, inverse polynomial error probability), and also a p-pass O(n/p)-space deterministic algorithm. We also prove that there exists a language in DLIN, for which any p-pass deterministic algorithm for membership testing, requires Ω(n/p) space. We also study the application of fingerprinting technique to visibly pushdown languages, VPL s.&lt;/p&gt;
