@@ -1,48 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on S Mathimalar</title>
-    <link>http://mathimalar.github.io/publication/</link>
-    <description>Recent content in Publications on S Mathimalar</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Mathimalar</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <title>Publications | S Mathimalar</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huaa51eca17e0f58a23decd7d762948593_24712_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>A low noise cryogen-free scanning tunneling microscope–superconducting magnet system with vacuum sample transfer</title>
+      <link>/publication/sci_inst_2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/sci_inst_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signature of gate-controlled magnetism and localization effects at Bi 2 Se 3/EuS interface</title>
+      <link>/publication/npj-2020/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/npj-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observation of zero-bias conductance peak in topologically-trivial hybrid superconducting interfaces</title>
+      <link>/publication/phys_comm/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/phys_comm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NTD Ge sensor development for superconducting bolometers</title>
-      <link>http://mathimalar.github.io/publication/thesis/</link>
+      <link>/publication/thesis/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://mathimalar.github.io/publication/thesis/</guid>
+      <guid>/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of NTD Ge Sensors for Superconducting Bolometer</title>
+      <link>/publication/jltp2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/jltp2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study of radioactive impurities in neutron transmutation doped germanium</title>
-      <link>http://mathimalar.github.io/publication/rad-imp-neu-trans/</link>
+      <link>/publication/rad-imp-neu-trans/</link>
       <pubDate>Sat, 21 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://mathimalar.github.io/publication/rad-imp-neu-trans/</guid>
+      <guid>/publication/rad-imp-neu-trans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of neutron transmutation doped (NTD) Ge for low temperature sensor development</title>
-      <link>http://mathimalar.github.io/publication/char-neut-trans/</link>
+      <link>/publication/char-neut-trans/</link>
       <pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://mathimalar.github.io/publication/char-neut-trans/</guid>
+      <guid>/publication/char-neut-trans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of NTD Ge sensors for low temperature thermometry</title>
-      <link>http://mathimalar.github.io/publication/dev-ntdge-low-temp/</link>
+      <link>/publication/dev-ntdge-low-temp/</link>
       <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://mathimalar.github.io/publication/dev-ntdge-low-temp/</guid>
+      <guid>/publication/dev-ntdge-low-temp/</guid>
       <description></description>
     </item>
     

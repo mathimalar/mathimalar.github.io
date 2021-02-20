@@ -1,282 +1,262 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/teaching/efficient-cnns/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/teaching/mot/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/project/mgb2/</loc>
-      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/project/ntdge/</loc>
-      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/sci_inst_2021/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/teaching/complexity-theory/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/publication/thesis/</loc>
-      <lastmod>2016-12-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/publication/rad-imp-neu-trans/</loc>
-      <lastmod>2015-02-21T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/publication/char-neut-trans/</loc>
-      <lastmod>2015-02-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/publication/dev-ntdge-low-temp/</loc>
-      <lastmod>2014-07-07T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/teaching/complexity-theory/notes/</loc>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/publication_types/1/</loc>
-      <lastmod>2014-07-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/publication_types/2/</loc>
-      <lastmod>2015-02-21T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/publication_types/5/</loc>
-      <lastmod>2016-12-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/npj-2020/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/phys_comm/</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/tags/complexity-theory/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/tags/deep-learning/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/talk/ntdge-sensors2/</loc>
-    </url>
-    
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/tags/mgb2/</loc>
-      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/instrumentation/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/talk/ntdge-sensors/</loc>
-    </url>
-    
+  <url>
+    <loc>/outreach/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/tags/ntdge/</loc>
-      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication-type/5/</loc>
+    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/talk/defence/</loc>
-    </url>
-    
+  <url>
+    <loc>/publication/thesis/</loc>
+    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/project/</loc>
-      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/publication_types/</loc>
-      <lastmod>2014-07-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/jltp2016/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://mathimalar.github.io/teaching/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/phd-defence/</loc>
+    <lastmod>2015-12-14T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/</loc>
+    <lastmod>2015-12-14T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/development-of-ntd-ge-sensors-for-low-temperature-thermometry-for-neutrinoless-double-beta-decay/</loc>
+    <lastmod>2015-09-11T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ntd-ge-sensors-for-low-temperature-thermometry-for-neutrinoless-double-beta-decay/</loc>
+    <lastmod>2015-09-11T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rad-imp-neu-trans/</loc>
+    <lastmod>2015-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/char-neut-trans/</loc>
+    <lastmod>2015-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2014-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dev-ntdge-low-temp/</loc>
+    <lastmod>2014-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc></loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
   
 </urlset>

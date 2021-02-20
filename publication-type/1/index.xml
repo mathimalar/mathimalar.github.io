@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | S Mathimalar</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huaa51eca17e0f58a23decd7d762948593_24712_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Development of NTD Ge sensors for low temperature thermometry</title>
+      <link>/publication/dev-ntdge-low-temp/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/dev-ntdge-low-temp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
